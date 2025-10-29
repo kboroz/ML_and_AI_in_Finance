@@ -37,6 +37,9 @@ https://s3.amazonaws.com/rendezvouswithdestiny.me/finance/max_hjb_mean_var.html
 https://github.com/hudson-and-thames/arbitragelab
 
 https://github.com/adamd1985/Deep-Q-Learning-Applied-to-Algorithmic-Trading
+
 https://github.com/AI4Finance-Foundation/FinRL
+
 https://wire.insiderfinance.io/i-tried-trading-with-agentic-ai-and-its-mind-blowing-455b88d3a56c
+
 https://github.com/1kc2/The-Kelly-Criterion
