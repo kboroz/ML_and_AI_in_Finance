@@ -38,6 +38,14 @@ https://www.coursera.org/specializations/machine-learning-reinforcement-finance
 
 https://www.coursera.org/specializations/trading-strategy
 
+## Executive Programme in Algorithmic Trading - EPAT®
+
+https://www.quantinsti.com/epat
+
 ## Pricing Options with Mathematical Models
 
 https://www.coursera.org/learn/pricing-options-with-mathematical-models
+
+https://quantra.quantinsti.com/all-courses-bundle
+
+https://quantra.quantinsti.com/
