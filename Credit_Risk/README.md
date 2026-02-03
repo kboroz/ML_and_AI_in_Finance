@@ -66,5 +66,6 @@ https://www.coursera.org/learn/dodd-frank-act-analyze-evaluate-reform
 
 https://www.coursera.org/learn/manage-global-economic-cr
 
-ises-liquidity-tools
+## Climate change modeling and its impact on Credit Risk.
 
+https://github.com/keyserwood/CreditRiskAndClimateChange
